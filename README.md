@@ -14,6 +14,8 @@ AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模�
 - 爱奇艺
 - 腾讯视频
 - 优酷视频
+- 虎牙直播
+- -皮皮虾
 
 ## Telegram
 <a href="https://t.me/AdClose"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-@AdClose-blue.svg?logo=telegram"></a>  
