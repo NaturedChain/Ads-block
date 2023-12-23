@@ -1,3 +1,4 @@
+
 # AdClose
 AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模块
 
@@ -19,31 +20,31 @@ AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模�
 
 
 ## 可去除以下平台广告：
--ByteDance (Pangolin) Ads
--ByteDance (Pangolin) GroMore
--Tencent Ads
--Kwai Ads
--Sigmob Ads
--Baidu Ads
--ADSuyiSdk Ads
--AdScope
--BJXingu Ads
--XinwuPaijin Ads
--Qumeng Ads
--Huawei Ads
--Mbridge Ads
--Mintegral Ads
--Tanx Ads
--Umeng SDK
--Xiaomi Ads
--XiaoChuang Ads-ZuiYou
--Tencent SDK
--Ali BaiChuan Ads
--Vungle Sdk
--Applovin Sdk
--Unity3d Ads
--FaceBook Ads
--Part of Google Ads
-
+- ByteDance (Pangolin) Ads
+- ByteDance (Pangolin) GroMore
+- Tencent Ads
+- Kwai Ads
+- Sigmob Ads
+- Baidu Ads
+- ADSuyiSdk Ads
+- AdScope
+- BJXingu Ads
+- XinwuPaijin Ads
+- Qumeng Ads
+- Huawei Ads
+- Mbridge Ads
+- Mintegral Ads
+- Tanx Ads
+- Umeng SDK
+- Xiaomi Ads
+- XiaoChuang Ads-ZuiYou
+- Tencent SDK
+- Ali BaiChuan Ads
+- Vungle Sdk
+- Applovin Sdk
+- Unity3d Ads
+- FaceBook Ads
+- Part of Google Ads
+- 
 ## Telegram
 <a href="https://t.me/AdClose"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-@AdClose-blue.svg?logo=telegram"></a>  
