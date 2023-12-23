@@ -45,6 +45,6 @@ AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模�
 - Unity3d Ads
 - FaceBook Ads
 - Part of Google Ads
-- 
+
 ## Telegram
 <a href="https://t.me/AdClose"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-@AdClose-blue.svg?logo=telegram"></a>  
