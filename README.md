@@ -1,15 +1,19 @@
 
 # AdClose
-AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模块
+AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模块。
+
+仅供学习交流，且模块完全免费使用
+本模块仅供学习交流使用，无意对抗，请勿用于违法违规用途，如有侵权，请联系删除。
+
 
 ## 现已支持
 - 去除国内常见的平台广告(全面)
-- 屏蔽广告请求
+- 屏蔽应用广告请求
 - 移除截图录屏限制
-- 去除VPN代理检测
+- 去除VPN与代理检测
 - 移除传感器监听(用于禁用摇一摇广告跳转)
 
-## 单独适配的App(通杀)
+## 单独适配的App(默认启用-通杀)
 - 酷我音乐
 - 微博轻享版
 - 爱奇艺
@@ -24,6 +28,8 @@ AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模�
 - ByteDance (Pangolin) GroMore
 - Tencent Ads
 - Kwai Ads
+- Appic Ads
+- Pinduoduo Ads
 - Sigmob Ads
 - Baidu Ads
 - ADSuyiSdk Ads
