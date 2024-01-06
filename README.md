@@ -59,4 +59,3 @@ AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模�
 <a href="https://t.me/AdClose"><img alt="Telegram Channel"
 <a href="https://t.me/AdClose_Chat"><img alt="Telegram Group"
 src="https://img.shields.io/badge/Telegram-@AdClose-blue.svg?logo=telegram"></a>
-src="https://img.shields.io/badge/Telegram-@AdClose_Chat-blue.svg?logo=telegram"></a>
