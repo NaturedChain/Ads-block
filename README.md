@@ -12,8 +12,9 @@ AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模�
 - 移除截图录屏限制
 - 去除VPN与系统代理检测
 - 移除传感器监听(用于禁用摇一摇广告跳转)
+- 去除一般性的Root，Magisk和Xposed检测
 
-## 单独适配的App(默认启用-通杀)
+## 单独适配的App(勾选即启用-通杀)
 - 酷我音乐
 - 微博轻享版
 - 爱奇艺
@@ -21,14 +22,16 @@ AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模�
 - 优酷视频
 - 虎牙直播
 - 皮皮虾
+- 知乎的开屏广告
 
 
-## 可去除以下SDK(Platform)广告：
+## 可去除以下SDK广告(Platform Ads)：
 - ByteDance (Pangolin) Ads
 - ByteDance (Pangolin) GroMore
 - Tencent Ads
 - Kwai Ads
 - Appic Ads
+- MeiShu Ads
 - Pinduoduo Ads
 - Sigmob Ads
 - Baidu Ads
@@ -53,4 +56,7 @@ AdClose是一个用于去除常见广告和解除部分应用限制的Xposed模�
 - Google Ads
 
 ## Telegram
-<a href="https://t.me/AdClose"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-@AdClose-blue.svg?logo=telegram"></a>  
+<a href="https://t.me/AdClose"><img alt="Telegram Channel"
+<a href="https://t.me/AdClose_Chat"><img alt="Telegram Group"
+src="https://img.shields.io/badge/Telegram-@AdClose-blue.svg?logo=telegram"></a>
+src="https://img.shields.io/badge/Telegram-@AdClose_Chat-blue.svg?logo=telegram"></a>
